@@ -1,11 +1,11 @@
-# `gas-price`
+# `core`
 
 > TODO: description
 
 ## Usage
 
 ```
-const gasPrice = require('gas-price');
+const core = require('core');
 
 // TODO: DEMONSTRATE API
 ```

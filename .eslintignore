@@ -1,5 +1,6 @@
 build/
 dist/
 node_modules/
+packages/*/lib
 .snapshots/
 *.min.js

@@ -25,13 +25,14 @@
     "url": "https://github.com/dazhboardio/widgets/issues"
   },
   "dependencies": {
+    "@ant-design/icons": "^4.7.0",
     "@dazhboardio/core": "^0.0.0",
     "antd": "^4.19.5",
     "styled-components": "^5.3.5"
   },
   "devDependencies": {
-    "typescript": "^4.6.3",
-    "@types/styled-components": "^5.1.25"
+    "@types/styled-components": "^5.1.25",
+    "typescript": "^4.6.3"
   },
   "peerDependencies": {
     "react": ">=16.9.0",
